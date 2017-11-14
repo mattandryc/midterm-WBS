@@ -58,25 +58,6 @@ function drawChart() {
             new Date(2019, 9, 17), null, daysToMilliseconds(2), 0, 'testing'],
         ['signoff', 'Sign Off','Wrap Up',
             new Date(2019, 9, 19), null, daysToMilliseconds(1), 0, null],
-        // ['webservice', 'Web Service','Development',
-        //     new Date(2018, 2, 21), null, daysToMilliseconds(30), 0, null],
-
-
-
-        // ['sync service', 'Watch/Phone sync service','Development',
-        //     new Date(2018, 1, 20), null, daysToMilliseconds(30), 0, 'WatchOS background'],
-        // ['test', 'Testing','Development',
-        //     new Date(2018, 3, 21), null, daysToMilliseconds(90), 0, 'ML clientside'],
-        // ['launch beta', 'Beta Launch','Development',
-        //     new Date(2018, 5, 30), null, daysToMilliseconds(90), 0, 'webservice'],
-        // ['full rollout', 'Full Launch','live',
-        //     new Date(2018, 9, 1), null, daysToMilliseconds(2), 0, 'launch beta'],
-        // ['monitor', 'User Feedback','live',
-        //     new Date(2018, 9, 1), null, daysToMilliseconds(200), 0, 'launch beta'],
-        // ['bugs', 'Triage Bugs','ongoing',
-        //     new Date(2018, 9, 14), null, daysToMilliseconds(200), 0, 'launch beta'],
-        // ['signoff', 'Project Signoff','end',
-        //     new Date(2019, 4, 1), null, daysToMilliseconds(1), 0, null]
     ]);
 
     var options = {
